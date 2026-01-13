@@ -1,0 +1,130 @@
+{
+  "name": "Marra Young",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "My name is Marra Young -",
+  "headerTaglineThree": "A Computer Systems Engineering Student",
+  "headerTaglineFour": " Based Outside Atlanta",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "www.linkedin.com/in/marra-young-2855b532b"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "Marra.Young@uga.edu"
+    },
+    {
+      "id": "77a321a8-3dca-4382-ba24-2baa916eb3d9",
+      "title": "Discord",
+      "link": "https://discordapp.com/users/301795936122830849"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "UGA Fabrication Laboratory Training Platform",
+      "description": "Virtual Reality",
+      "imageSrc": "/images/project1.jpg",
+      "url": "https://github.com/ugavr2025/final-project-code-senior-syndicate"
+    },
+    {
+      "id": "2",
+      "title": "VR Locomotion Experiments",
+      "description": "Virtual Reality",
+      "imageSrc": "/images/project2.png",
+      "url": "https://github.com/marrayoung/VR_Locomotion_Experiments"
+    },
+    {
+      "id": "3",
+      "title": "Timed Lab Ordering Simulation Platform (In Progress)",
+      "description": "Application Development",
+      "imageSrc": "/images/project3.png",
+      "url": "https://timedlabordering.my.canva.site/capstone-website-mockup"
+    },
+    {
+      "id": "4",
+      "title": "Frequency-Selective Sound-Tracking Robot",
+      "description": "Embedded Systems & Signal Processing",
+      "imageSrc": "/images/project4.png",
+      "url": "https://github.com/marrayoung/AudioCar"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Art Direction",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence. Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "4",
+      "title": "3D Design",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "I’m a Computer Systems Engineering student graduating this spring, originally from the New Jersey shore. I enjoy building hands-on systems at the intersection of hardware and software, with a focus on practical, well-designed solutions.\n\nOutside of engineering, I love spending time outdoors—especially at the beach—playing video games with my family, reading, and hanging out with my French bulldogs. I’m curious by nature, detail-oriented, and always excited to learn something new.",
+  "resume": {
+    "tagline": "",
+    "description": "",
+    "experiences": [
+      {
+        "id": "work-1",
+        "dates": "2023 - 2025",
+        "type": "Work Experience",
+        "position": "Herlihy, Young, and Niemic LLC | Intern",
+        "bullets": "Coordinated and directed all social media presence and website maintenance || Revamped filing system to better streamline the organization of client information and invoices || Handled public relations efforts to successfully increase company visibility and engagement"
+      },
+      {
+        "id": "proj-1",
+        "dates": "In Progress",
+        "type": "Web Development",
+        "position": "Timed Lab Ordering Training Simulation Platform",
+        "bullets": "Developing a web-based clinical lab ordering simulation for Augusta University featuring timed decision-making role-based access and realistic clinical constraints using React and Firebase"
+      },
+      {
+        "id": "proj-2",
+        "dates": "",
+        "type": "Embedded Systems & Signal Processing",
+        "position": "Frequency-Selective Sound-Tracking Robot",
+        "bullets": "Designed autonomous car tracking audio sources at C8 (4186 Hz) and C6 (1046 Hz) using dual microphone arrays and custom 3D-printed acoustic cones || Constructed SAR ADC from discrete components enabling digital signal processing without specialized ICs || Designed PCB schematics in Autodesk Fusion integrating power supply, filters, and ADC subsystems"
+      },
+      {
+        "id": "proj-3",
+        "dates": "",
+        "type": "Software Development",
+        "position": "UV Index Analysis Application",
+        "bullets": "Developed application displaying local UV indexes based on user input and geographical location using multiple API integrations"
+      }
+    ],
+    "education": {
+      "universityName": "University of Georgia",
+      "universityDate": "August 2022 - May 2026",
+      "universityPara": "Bachelor of Science in Computer Systems Engineering, Minor in Computer Science\nAthens, GA • Overall GPA: 3.97/4.0"
+    },
+    "languages": ["C", "Java", "Python"],
+    "frameworks": ["React", "Unity"],
+    "others": [
+      "Embedded Systems",
+      "Signal Processing",
+      "API Integration",
+      "Self-management",
+      "Flexibility",
+      "Problem-solving"
+    ]
+  }
+}
